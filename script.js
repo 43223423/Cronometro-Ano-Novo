@@ -21,7 +21,6 @@ function Contador() {
 
     const segundos = Math.floor(segundosTotais % 60)
 
-    // console.log(dia, hora, minutos, segundos)
 
     
     diasId.innerHTML = dia
